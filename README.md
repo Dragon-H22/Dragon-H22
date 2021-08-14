@@ -2,4 +2,3 @@
 - Student at the Faculty of Computers and Information Science at Ain Shams University in second year.
 - Interested in Programming and Software Development.
 - Currently learning Embedded Systems & IoT , Web devolpment and Software Testing.
-- I'm trying to learn and improve myself by taking courses and training.
