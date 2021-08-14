@@ -1,0 +1,4 @@
+- My is *Hosam Hatem*
+- I'm Student at the Faculty of Computers and Information Science at Ain Shams University in second year
+- I’m interested in Programming and Software Development
+- I’m currently learning Embedded Systems & IoT , Web devolpment, Software Testing
