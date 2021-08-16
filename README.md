@@ -14,8 +14,8 @@
   https://codeforces.com/profile/Hosam.H22
 </details>
 
-![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical).
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=radical)]
+![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=radical)
 
 [facebook]: https://www.facebook.com/hosam.H.222/
 [linkedin]: https://www.linkedin.com/in/hosam-hatem-0a8483182/
