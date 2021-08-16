@@ -3,12 +3,6 @@
 - Interested in Programming and Software Development.
 - Currently learning Embedded Systems & IoT , Web devolpment and Software Testing.
 
-
-<br>
-### Connect with me:
-[<img align="left" alt="Facebook" width="22px" src="(https://user-images.githubusercontent.com/88390970/129520379-45c02f08-06d0-4590-872b-892a68347f40.png)" />][facebook]
-[<img align="left" alt="Linkedin" width="22px" src="(https://user-images.githubusercontent.com/88390970/129520524-b9f7acc8-ea8e-4686-81e8-199afe4f7f5c.png)" />][linkedin]
-
 <br><br>
 
 <details>
