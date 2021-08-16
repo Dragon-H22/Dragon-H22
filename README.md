@@ -2,7 +2,12 @@
 - Student at the Faculty of Computers and Information Science at Ain Shams University in second year.
 - Interested in Programming and Software Development.
 - Currently learning Embedded Systems & IoT , Web devolpment and Software Testing.
+<br>
+### Connect with me:
 
+[<img align="left" alt="Dragon-H22|Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<!-- [<img align="left" alt="Dragon-H22|Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="Dragon-H22|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br><br>
 
 <details>
