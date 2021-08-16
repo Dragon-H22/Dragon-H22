@@ -4,8 +4,6 @@
 - Currently learning Embedded Systems & IoT , Web devolpment and Software Testing.
 
 <br><br>
-![Facebook_icon_2013 svg](https://user-images.githubusercontent.com/88390970/129523985-6d6ed4d7-cc8c-4a45-8eff-e87cf39eaea7.png)
-
 
 <details>
  <summary>:zap: HackerRank Profile</summary>
