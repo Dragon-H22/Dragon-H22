@@ -2,7 +2,8 @@
 - Student at the Faculty of Computers and Information Science at Ain Shams University in second year.
 - Interested in Programming and Software Development.
 - Currently learning Embedded Systems & IoT , Web devolpment and Software Testing.
-
+<br>
+[<img align="left" alt="wasfyelbaz | Facebook" width="22px" src="![Facebook_icon_2013 svg](https://user-images.githubusercontent.com/88390970/129523562-3f131647-df4d-4ade-9dc0-5febac2e88dd.png)" />][facebook]
 <br><br>
 
 <details>
