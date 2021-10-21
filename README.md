@@ -13,6 +13,9 @@
 
 <!-- ![LinkedIn_icon svg](https://user-images.githubusercontent.com/88390970/138225060-32188a89-5df4-4160-8bd4-bb034a9cf4dc.png) -->
 <!-- ![facebook icon](https://user-images.githubusercontent.com/88390970/138225202-a521159c-70e4-4850-bdbb-15498cb51b57.png) -->
+[facebook]: https://www.facebook.com/hosam.H.222/
+[linkedin]: https://www.linkedin.com/in/hosam-hatem-0a8483182/
+
 
 <br><br>
 
@@ -28,6 +31,4 @@
 ![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=radical)
 
-[facebook]: https://www.facebook.com/hosam.H.222/
-[linkedin]: https://www.linkedin.com/in/hosam-hatem-0a8483182/
 
