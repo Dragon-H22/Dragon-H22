@@ -55,4 +55,4 @@
 <!-- ![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=radical)
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dragon-H22&theme=dark&bg_color=000000)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dragon-H22&bg_color=000000)
