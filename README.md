@@ -13,7 +13,6 @@
 [linkedin]: https://www.linkedin.com/in/hosam-hatem-0a8483182/
 
 
-<br><br>
 
 <details>
  <summary>:zap: HackerRank Profile</summary>
