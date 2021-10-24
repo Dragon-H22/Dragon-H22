@@ -24,13 +24,8 @@
   https://codeforces.com/profile/Hosam.H22
 </details>
 
-
-![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=radical)
-
- <br>
- 
- ### Tools ⚙️ :
+<br>
+  ### Tools ⚙️ :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Cloin" width="26px" src="https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png" />
@@ -47,4 +42,8 @@
 <!--  ![Terminal](https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg) -->
 <!--  ![clion](https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png) -->
 <!--  ![IntelliJ svg](https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png) -->
-
+ 
+ <br>
+ 
+![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=radical)
