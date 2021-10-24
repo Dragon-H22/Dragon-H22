@@ -22,6 +22,10 @@
  <summary>:zap: CodeForces Profile</summary>
   https://codeforces.com/profile/Hosam.H22
 </details>
+ <details>
+ <summary>:zap: Vjudges Profile</summary>
+  https://vjudge.net/user/Hosam_H22
+</details>
 
 <br>
  
