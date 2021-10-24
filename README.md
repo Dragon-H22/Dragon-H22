@@ -7,7 +7,8 @@
 #### Connect with me :
 [<img align="left" alt="Dragon-H22|Linkedin" width="22px" src="https://user-images.githubusercontent.com/88390970/138225060-32188a89-5df4-4160-8bd4-bb034a9cf4dc.png" />][linkedin]
 <!-- [<img align="left" alt="Dragon-H22|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="Dragon-H22|Facebook" width="22px" src="https://user-images.githubusercontent.com/88390970/138225202-a521159c-70e4-4850-bdbb-15498cb51b57.png" />][facebook]
+[<img align="left" alt="Dragon-H22|Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+<a href="mailto:hosam.hatem222@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 <!-- [<img align="left" alt="Dragon-H22|Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] -->
 
 
