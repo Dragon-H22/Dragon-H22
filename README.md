@@ -16,7 +16,7 @@
 <br><br>
 
 <details>
- <summary style="color:white">:zap: HackerRank Profile</summary>
+ <summary>:zap: HackerRank Profile</summary>
   https://www.hackerrank.com/hosam_hatem222
 </details>
 <details>
@@ -24,7 +24,27 @@
   https://codeforces.com/profile/Hosam.H22
 </details>
 
+
 ![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=radical)
 
+ <br><br>
+ 
+ ### Tools ⚙️
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Cloin" width="26px" src="https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png" />
+<img align="left" alt="Eclipse" width="26px" src="https://i.ibb.co/n8nNPrT/eclipse.png" />
+<img align="left" alt="IntelliJ" width="26px" src="https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png" />
+<img align="left" alt="PyCharm" width="36px" src="https://i.ibb.co/yhpncpG/index.jpg" />
+<!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
+<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg" />
+<!-- <img align="left" alt="linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
+<img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
+
+
+ ![kali](https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg)
+ ![Terminal](https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg)
+ ![clion](https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png)
+ ![IntelliJ svg](https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png)
 
