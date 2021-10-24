@@ -12,7 +12,7 @@
 [facebook]: https://www.facebook.com/hosam.H.222/
 [linkedin]: https://www.linkedin.com/in/hosam-hatem-0a8483182/
 
-
+<br>
 
 <details>
  <summary>:zap: HackerRank Profile</summary>
