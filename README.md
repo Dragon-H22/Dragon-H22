@@ -40,11 +40,11 @@
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg" />
 <!-- <img align="left" alt="linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
-<img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
+<img align="left" alt="Kali linux" width="36px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
 
 
- ![kali](https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg)
- ![Terminal](https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg)
- ![clion](https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png)
- ![IntelliJ svg](https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png)
+<!--  ![kali](https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg) -->
+<!--  ![Terminal](https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg) -->
+<!--  ![clion](https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png) -->
+<!--  ![IntelliJ svg](https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png) -->
 
