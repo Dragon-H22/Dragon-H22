@@ -1,4 +1,4 @@
-## Hey! there,  I'm Eng.Hosam Hatem Abd-elbaky 👋 :
+## Hey! there,  I'm Eng.Hosam Hatem Abd-elbaky 👋 : <a href="mailto:hosam.hatem222@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - Student at the Faculty of Computers and Information Science at Ain Shams University in second year.
 - Interested in Programming and Software Development.
 - Currently learning Cybersecurity , Web devolpment and Database.
@@ -7,7 +7,6 @@
 #### Connect with me 📫 :
 [<img align="left" alt="Dragon-H22|Linkedin" width="3.5%" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Dragon-H22|Facebook" width="3.5%" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-<a href="mailto:hosam.hatem222@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!-- <a href="mailto:hosam.hatem222@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> -->
 
 [facebook]: https://www.facebook.com/hosam.H.222/
