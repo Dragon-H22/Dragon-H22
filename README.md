@@ -55,5 +55,4 @@
 ![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
 <!-- ![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=dark)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dragon-H22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dragon-H22&theme=dark) -->
