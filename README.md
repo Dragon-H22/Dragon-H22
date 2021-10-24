@@ -20,7 +20,7 @@
  https://www.hackerrank.com/hosam_hatem222
 </details>
  
-<details target="_blank">
+<details>
  <summary>:zap: CodeForces Profile</summary>
  https://codeforces.com/profile/Hosam.H22
 </details>
