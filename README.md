@@ -16,15 +16,17 @@
 
 <details>
  <summary>:zap: HackerRank Profile</summary>
-  https://www.hackerrank.com/hosam_hatem222
+ https://www.hackerrank.com/hosam_hatem222
 </details>
+ 
 <details>
  <summary>:zap: CodeForces Profile</summary>
-  https://codeforces.com/profile/Hosam.H22
+ https://codeforces.com/profile/Hosam.H22
 </details>
- <details>
+ 
+<details>
  <summary>:zap: Vjudges Profile</summary>
-  https://vjudge.net/user/Hosam_H22
+ https://vjudge.net/user/Hosam_H22
 </details>
 
 <br>
