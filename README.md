@@ -6,9 +6,9 @@
 
 #### Connect with me 📫 :
 [<img align="left" alt="Dragon-H22|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Dragon-H22|Facebook" width="3.5%" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Dragon-H22|Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 <!-- <a href="mailto:hosam.hatem222@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> -->
-<a href="mailto:hosam.hatem222@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="10%"/></a>
+<a href="mailto:hosam.hatem222@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="40px"/></a>
 
 [facebook]: https://www.facebook.com/hosam.H.222/
 [linkedin]: https://www.linkedin.com/in/hosam-hatem-0a8483182/
