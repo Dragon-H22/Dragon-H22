@@ -50,12 +50,15 @@
 <img align="left" alt="Eclipse" width="26px" src="https://i.ibb.co/n8nNPrT/eclipse.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png" />
 <img align="left" alt="PyCharm" width="36px" src="https://i.ibb.co/yhpncpG/index.jpg" />
+<img align="left" alt="Arduino IDE" width="36px" src="https://user-images.githubusercontent.com/88390970/147804096-eccd3aca-3616-465e-88be-69476835ee09.png" />
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg" />
 <!-- <img align="left" alt="linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 <img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
 
 
+
+<!-- ![arduino_logo1](https://user-images.githubusercontent.com/88390970/147804096-eccd3aca-3616-465e-88be-69476835ee09.png) -->
 <!-- ![Java_logo_icon](https://user-images.githubusercontent.com/88390970/147803978-1343ac91-4fd7-4e0c-81f4-f98e239a5562.png) -->
 <!-- ![java-logo-vector](https://user-images.githubusercontent.com/88390970/147803888-b7e70424-7a7c-4dec-baf9-c4b4195481d2.png) -->
 <!--  ![kali](https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg) -->
