@@ -40,7 +40,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="31px" src="https://user-images.githubusercontent.com/88390970/147803888-b7e70424-7a7c-4dec-baf9-c4b4195481d2.png" />
+<img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/88390970/147803888-b7e70424-7a7c-4dec-baf9-c4b4195481d2.png" />
 <!-- <img align="left" alt="Autoit" width="36px" src="https://i.ibb.co/1T8jmx0/Auto-It-Featured-640x480.png" /> -->
  <br>
  
