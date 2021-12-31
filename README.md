@@ -32,6 +32,17 @@
 </details>
 
 <br>
+
+### Languages  🧑‍💻:
+
+<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/88390970/147803888-b7e70424-7a7c-4dec-baf9-c4b4195481d2.png" />
+<!-- <img align="left" alt="Autoit" width="36px" src="https://i.ibb.co/1T8jmx0/Auto-It-Featured-640x480.png" /> -->
+ <br>
  
 ### Tools ⚙️ :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -45,6 +56,7 @@
 <img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
 
 
+<!-- ![java-logo-vector](https://user-images.githubusercontent.com/88390970/147803888-b7e70424-7a7c-4dec-baf9-c4b4195481d2.png) -->
 <!--  ![kali](https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg) -->
 <!--  ![Terminal](https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg) -->
 <!--  ![clion](https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png) -->
