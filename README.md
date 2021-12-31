@@ -50,7 +50,7 @@
 <img align="left" alt="Eclipse" width="26px" src="https://i.ibb.co/n8nNPrT/eclipse.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png" />
 <img align="left" alt="PyCharm" width="36px" src="https://i.ibb.co/yhpncpG/index.jpg" />
-<img align="left" alt="Arduino IDE" width="36px" src="https://user-images.githubusercontent.com/88390970/147804096-eccd3aca-3616-465e-88be-69476835ee09.png" />
+<img align="left" alt="Arduino IDE" width="30px" src="https://user-images.githubusercontent.com/88390970/147804096-eccd3aca-3616-465e-88be-69476835ee09.png" />
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg" />
 <!-- <img align="left" alt="linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
