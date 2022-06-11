@@ -10,8 +10,8 @@
 <!-- <a href="mailto:hosam.hatem222@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> -->
 <a href="mailto:hosam.hatem222@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="100px"/></a>
 
-[facebook]: https://www.facebook.com/hosam.H.222/
-[linkedin]: https://www.linkedin.com/in/hosam-hatem-0a8483182/
+[facebook]: https://www.facebook.com/hossam.h222/
+[linkedin]: https://www.linkedin.com/in/hossam-hatem/
 
 
 <br><br>
