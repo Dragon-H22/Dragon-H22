@@ -40,7 +40,8 @@
 
 ### Languages  🧑‍💻:
 
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/88390970/177618779-5a8fd995-9ba8-40f1-a992-11f48ad0418f.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -80,6 +81,7 @@
 <!-- ![android-4](https://user-images.githubusercontent.com/88390970/177617885-df1142a9-b7cf-473f-9941-13c08b30098a.svg) -->
 <!-- ![dart](https://user-images.githubusercontent.com/88390970/177617899-5b536146-c5a2-4482-82e6-167fde6b452e.svg) -->
 <!-- ![flutter-logo](https://user-images.githubusercontent.com/88390970/177617906-4203077c-92d9-4ddd-9557-6339922614e6.svg) -->
+<!-- ![c-1](https://user-images.githubusercontent.com/88390970/177618779-5a8fd995-9ba8-40f1-a992-11f48ad0418f.svg) -->
 
  
  <br><br>
