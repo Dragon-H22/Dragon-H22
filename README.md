@@ -46,7 +46,10 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="53px" src="https://user-images.githubusercontent.com/88390970/147803978-1343ac91-4fd7-4e0c-81f4-f98e239a5562.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<!-- <img align="left" alt="Autoit" width="36px" src="https://i.ibb.co/1T8jmx0/Auto-It-Featured-640x480.png" /> -->
+<img align="left" alt="Dart" width="36px" src="https://user-images.githubusercontent.com/88390970/177617899-5b536146-c5a2-4482-82e6-167fde6b452e.svg" />
+<img align="left" alt="Flutter" width="36px" src="https://user-images.githubusercontent.com/88390970/177617906-4203077c-92d9-4ddd-9557-6339922614e6.svg" />
+
+
  <br>
  
 ### Tools ⚙️ :
@@ -60,6 +63,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg" />
 <!-- <img align="left" alt="linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 <img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
+<img align="left" alt="QT frameWork" width="26px" src="https://user-images.githubusercontent.com/88390970/177617917-b216f1de-ab3e-4c17-a64d-228d1471569f.svg" />
+<img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/88390970/177617885-df1142a9-b7cf-473f-9941-13c08b30098a.svg" />
+
 
 <br>
 
@@ -70,6 +76,11 @@
 <!--  ![Terminal](https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg) -->
 <!--  ![clion](https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png) -->
 <!--  ![IntelliJ svg](https://user-images.githubusercontent.com/88390970/138610879-2b9171b8-92ff-4a9d-b9f9-148029e165ab.png) -->
+<!-- ![qt-1](https://user-images.githubusercontent.com/88390970/177617917-b216f1de-ab3e-4c17-a64d-228d1471569f.svg) -->
+<!-- ![android-4](https://user-images.githubusercontent.com/88390970/177617885-df1142a9-b7cf-473f-9941-13c08b30098a.svg) -->
+<!-- ![dart](https://user-images.githubusercontent.com/88390970/177617899-5b536146-c5a2-4482-82e6-167fde6b452e.svg) -->
+<!-- ![flutter-logo](https://user-images.githubusercontent.com/88390970/177617906-4203077c-92d9-4ddd-9557-6339922614e6.svg) -->
+
  
  <br><br>
  
