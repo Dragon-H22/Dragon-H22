@@ -1,5 +1,5 @@
 ## Hey! there,   I'm Eng.Hossam Hatem Abd-elbaky 👋  :
-- Student at the Faculty of Computers and Information Science at Ain Shams University in second year.
+- Student at the Faculty of Computers and Information Science at Ain Shams University in third year.
 - Interested in Programming and Software Development.
 - Currently learning Flutter application , Web devolpment and UX/UI design.
 <br>
