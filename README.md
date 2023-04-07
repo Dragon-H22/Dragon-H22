@@ -1,7 +1,7 @@
 ## Hey! there,   I'm Eng.Hossam Hatem Abd-elbaky 👋  :
 - Student at the Faculty of Computers and Information Science at Ain Shams University in third year.
 - Interested in Programming and Software Development.
-- Currently learning Flutter application , Web devolpment and UX/UI design.
+- Currently learning Web devolopment, Flutter.
 <br>
 
 #### Connect with me 📫 :
@@ -31,10 +31,10 @@
  https://vjudge.net/user/Hosam_H22
 </details>
 
-<details>
- <summary>:zap: Behance Profile</summary>
- https://www.behance.net/hossamh22
-</details>
+<!-- <details> -->
+<!--  <summary>:zap: Behance Profile</summary> -->
+<!--  https://www.behance.net/hossamh22 -->
+<!-- </details> -->
 
 <br>
 
