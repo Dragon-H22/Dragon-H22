@@ -1,7 +1,7 @@
 ## Hey! there,   I'm Eng.Hossam Hatem Abd-elbaky 👋  :
-- Student at the Faculty of Computers and Information Science at Ain Shams University in third year.
+- Senior student at Ain Shams University Faculty of Computers and Information Science.
 - Interested in Programming and Software Development.
-- Currently learning Web devolopment, Flutter.
+- Currently learning Web development, and Flutter.
 <br>
 
 #### Connect with me 📫 :
@@ -86,9 +86,9 @@
  
  <br><br>
  
-![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515)
+<!-- ![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&show_icons=true&locale=en&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515) -->
 <!-- ![Dragon-H22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragon-H22&hide=[%22issues%22]&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-H22&layout=compact&theme=dark) -->
 <!-- ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dragon-H22&theme=dark) -->
 
 
