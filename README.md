@@ -5,13 +5,11 @@
 <br>
 
 #### Connect with me 📫 :
-[<img align="left" alt="Dragon-H22|Linktree" width="90px" src="https://github.com/Dragon-H22/Dragon-H22/assets/88390970/f7878c4e-08ad-400b-b7de-7fd9d39ce9bd" />][Linktree]
+
+[<img align="left" alt="Dragon-H22|Linktree" width="90px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/88390970/263207287-f7878c4e-08ad-400b-b7de-7fd9d39ce9bd.png" />][Linktree]
 [<img align="left" alt="Dragon-H22|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-<!-- [<img align="left" alt="Dragon-H22|Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook] -->
-<!-- <a href="mailto:hosam.hatem222@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> -->
 <a href="mailto:hosam.hatem222@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="100px"/></a>
 
-[facebook]: https://www.facebook.com/hossam.h222/
 [linkedin]: https://www.linkedin.com/in/hossam-hatem/
 [Linktree]: https://linktr.ee/hossam_h22/
 
