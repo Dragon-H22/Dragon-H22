@@ -71,7 +71,7 @@
 <!-- <img align="left" alt="linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 <img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
 <img align="left" alt="QT frameWork" width="26px" src="https://user-images.githubusercontent.com/88390970/177617917-b216f1de-ab3e-4c17-a64d-228d1471569f.svg" />
-<img align="left" alt="Android Studio" width="36px" src="https://github.com/Dragon-H22/Dragon-H22/assets/88390970/4981cf71-f1a8-4889-861b-85059fc2eb17" />
+<img align="left" alt="Android Studio" width="36px" src="https://user-images.githubusercontent.com/88390970/177617885-df1142a9-b7cf-473f-9941-13c08b30098a.svg" />
 
 
 <br>
