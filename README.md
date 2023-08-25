@@ -11,7 +11,7 @@
 <a href="mailto:hosam.hatem222@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="100px"/></a>
 
 [linkedin]: https://www.linkedin.com/in/hossam-hatem/
-[Linktree]: https://linktr.ee/hossam_h22/
+[Linktree]: https://linktr.ee/hossam_h22
 
 
 <br><br>
