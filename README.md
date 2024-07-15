@@ -1,7 +1,7 @@
 ## Hey! there,   I'm Eng.Hossam Hatem Abd-elbaky 👋  :
-- Senior student at Ain Shams University Faculty of Computers and Information Science.
+- Graduated from the Computers and Information Science faculty at Ain Shams University.
 - Interested in Programming and Software Development.
-- Currently learning Web development, and Flutter.
+- Currently, I'm a Full-stack Web developer.
 <br>
 
 #### Connect with me 📫 :
